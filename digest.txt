@@ -1,0 +1,402 @@
+557516      Settings                                     Settings.rb
+733274      BattleSettings                               BattleSettings.rb
+925791      ==================                           EMPTY
+913567      [[ Technical ]]                              EMPTY
+255231      MKXP_Compatibility                           MKXP_Compatibility.rb
+958906      RubyUtilities                                RubyUtilities.rb
+743756      Intl_Messages                                Intl_Messages.rb
+437982      Input                                        Input.rb
+941446      PluginManager                                PluginManager.rb
+183669      RPG_Sprite                                   RPG_Sprite.rb
+927735                                                   EMPTY
+658535      [[ Debugging ]]                              EMPTY
+921756      PBDebug                                      PBDebug.rb
+758880      DebugConsole                                 DebugConsole.rb
+391642      Errors                                       Errors.rb
+447388      Validation                                   Validation.rb
+535626      Deprecation                                  Deprecation.rb
+637272                                                   EMPTY
+153481      [[ Files ]]                                  EMPTY
+468580      FileTests                                    FileTests.rb
+314554      FileMixins                                   FileMixins.rb
+505614      HTTP_Utilities                               HTTP_Utilities.rb
+629202      ==================                           EMPTY
+367110      [[ Save data ]]                              EMPTY
+352320      SaveData                                     SaveData.rb
+9589        SaveData_Value                               SaveData_Value.rb
+456061      SaveData_Conversion                          SaveData_Conversion.rb
+508935      Game_SaveValues                              Game_SaveValues.rb
+706843      Game_SaveConversions                         Game_SaveConversions.rb
+418669      ==================                           EMPTY
+978807      [[ Game processing ]]                        EMPTY
+312799      StartGame                                    StartGame.rb
+359233      Scene_Map                                    Scene_Map.rb
+8172        Interpreter                                  Interpreter.rb
+908499      Interpreter_Commands                         Interpreter_Commands.rb
+230093      Event_Handlers                               Event_Handlers.rb
+712321      Event_HandlerCollections                     Event_HandlerCollections.rb
+768826      ==================                           EMPTY
+594642      [[ Game classes ]]                           EMPTY
+271154      Game_Screen                                  Game_Screen.rb
+796986      Game_System                                  Game_System.rb
+589451      Game_Picture                                 Game_Picture.rb
+599037      Game_Map                                     Game_Map.rb
+628436      Game_MapFactory                              Game_MapFactory.rb
+835685      Game_Character                               Game_Character.rb
+248867      Game_Event                                   Game_Event.rb
+142151      Game_Player                                  Game_Player.rb
+380475      Game_CommonEvent                             Game_CommonEvent.rb
+500782      Game_Follower                                Game_Follower.rb
+641608      Game_FollowerFactory                         Game_FollowerFactory.rb
+397757      Game_Stats                                   Game_Stats.rb
+582198                                                   EMPTY
+849248      [[ Switches and Variables ]]                 EMPTY
+348990      Game_Temp                                    Game_Temp.rb
+68134       Game_Switches                                Game_Switches.rb
+441769      Game_Variables                               Game_Variables.rb
+622115      Game_SelfSwitches                            Game_SelfSwitches.rb
+95435       ==================                           EMPTY
+594772      [[ Sprites ]]                                EMPTY
+110505      Sprite_Picture                               Sprite_Picture.rb
+910223      Sprite_Timer                                 Sprite_Timer.rb
+537119      Sprite_Character                             Sprite_Character.rb
+24601       Sprite_Reflection                            Sprite_Reflection.rb
+512225      Sprite_SurfBase                              Sprite_SurfBase.rb
+867844      Spriteset_Global                             Spriteset_Global.rb
+558172      Spriteset_Map                                Spriteset_Map.rb
+814608      Sprite_AnimationSprite                       Sprite_AnimationSprite.rb
+96905       Sprite_DynamicShadows                        Sprite_DynamicShadows.rb
+947129      PictureEx                                    PictureEx.rb
+479788      ScreenPosHelper                              ScreenPosHelper.rb
+131633      ==================                           EMPTY
+868909      [[ Map renderer ]]                           EMPTY
+120451      TilemapRenderer                              TilemapRenderer.rb
+755567      TilesetWrapper                               TilesetWrapper.rb
+911463      AutotileExpander                             AutotileExpander.rb
+986162      TileDrawingHelper                            TileDrawingHelper.rb
+829033      ==================                           EMPTY
+734169      [[ Objects and windows ]]                    EMPTY
+457292      RPG_Cache                                    RPG_Cache.rb
+873343      MessageConfig                                MessageConfig.rb
+342390      Window                                       Window.rb
+373108      SpriteWindow                                 SpriteWindow.rb
+548273      SpriteWindow_text                            SpriteWindow_text.rb
+982041      SpriteWindow_pictures                        SpriteWindow_pictures.rb
+937614      BitmapSprite                                 BitmapSprite.rb
+447865      AnimatedBitmap                               AnimatedBitmap.rb
+335574      Planes                                       Planes.rb
+805231      DrawText                                     DrawText.rb
+410269      Messages                                     Messages.rb
+320725      TextEntry                                    TextEntry.rb
+611952      ==================                           EMPTY
+182564      [[ Audio ]]                                  EMPTY
+473657      Audio                                        Audio.rb
+488414      Audio_Play                                   Audio_Play.rb
+228047      ==================                           EMPTY
+402770      [[ Scenes ]]                                 EMPTY
+91518       Transitions                                  Transitions.rb
+9925        EventScene                                   EventScene.rb
+188137      ==================                           EMPTY
+772805      [[ Data ]]                                   EMPTY
+440523      GameData                                     GameData.rb
+39087                                                    EMPTY
+543008      [[ Hardcoded data ]]                         EMPTY
+376299      GrowthRate                                   GrowthRate.rb
+905734      GenderRatio                                  GenderRatio.rb
+233827      EggGroup                                     EggGroup.rb
+155976      BodyShape                                    BodyShape.rb
+594312      BodyColor                                    BodyColor.rb
+317840      Habitat                                      Habitat.rb
+996450      Evolution                                    Evolution.rb
+697789      Stat                                         Stat.rb
+335124      Nature                                       Nature.rb
+454413      Status                                       Status.rb
+569942      TerrainTag                                   TerrainTag.rb
+361696      Weather                                      Weather.rb
+709048      EncounterType                                EncounterType.rb
+231405      Environment                                  Environment.rb
+83664       BattleWeather                                BattleWeather.rb
+794959      BattleTerrain                                BattleTerrain.rb
+831378      Target                                       Target.rb
+570150                                                   EMPTY
+756569      [[ PBS data ]]                               EMPTY
+829510      MiscPBSData                                  MiscPBSData.rb
+885843      TownMap                                      TownMap.rb
+934181      Type                                         Type.rb
+103273      Ability                                      Ability.rb
+258909      Move                                         Move.rb
+578333      Item                                         Item.rb
+929391      BerryPlant                                   BerryPlant.rb
+872593      Species                                      Species.rb
+640021      Species_files                                Species_files.rb
+168512      SpeciesMetrics                               SpeciesMetrics.rb
+973055      ShadowPokemon                                ShadowPokemon.rb
+24739       Ribbon                                       Ribbon.rb
+730787      Encounter                                    Encounter.rb
+4100        TrainerType                                  TrainerType.rb
+342135      Trainer                                      Trainer.rb
+559744      Metadata                                     Metadata.rb
+974081      PlayerMetadata                               PlayerMetadata.rb
+454115      MapMetadata                                  MapMetadata.rb
+341006      DungeonTileset                               DungeonTileset.rb
+343363      DungeonParameters                            DungeonParameters.rb
+487544      PhoneMessage                                 PhoneMessage.rb
+799082      ==================                           EMPTY
+179893      [[ Battle ]]                                 EMPTY
+659184                                                   EMPTY
+29287       [[ Battle ]]                                 EMPTY
+814208      Battle                                       Battle.rb
+603932      Battle_StartAndEnd                           Battle_StartAndEnd.rb
+351742      Battle_ExpAndMoveLearning                    Battle_ExpAndMoveLearning.rb
+836019      Battle_ActionAttacksPriority                 Battle_ActionAttacksPriority.rb
+75927       Battle_ActionSwitching                       Battle_ActionSwitching.rb
+836989      Battle_ActionUseItem                         Battle_ActionUseItem.rb
+31760       Battle_ActionRunning                         Battle_ActionRunning.rb
+396021      Battle_ActionOther                           Battle_ActionOther.rb
+297547      Battle_CommandPhase                          Battle_CommandPhase.rb
+820107      Battle_AttackPhase                           Battle_AttackPhase.rb
+563690      Battle_EndOfRoundPhase                       Battle_EndOfRoundPhase.rb
+305100                                                   EMPTY
+68582       [[ Battler ]]                                EMPTY
+892448      Battle_Battler                               Battle_Battler.rb
+580981      Battler_Initialize                           Battler_Initialize.rb
+611335      Battler_ChangeSelf                           Battler_ChangeSelf.rb
+544275      Battler_Statuses                             Battler_Statuses.rb
+739572      Battler_StatStages                           Battler_StatStages.rb
+602973      Battler_AbilityAndItem                       Battler_AbilityAndItem.rb
+281352      Battler_UseMove                              Battler_UseMove.rb
+961240      Battler_UseMoveTargeting                     Battler_UseMoveTargeting.rb
+393738      Battler_UseMoveSuccessChecks                 Battler_UseMoveSuccessChecks.rb
+595140      Battler_UseMoveTriggerEffects                Battler_UseMoveTriggerEffects.rb
+559905                                                   EMPTY
+537072      [[ Move ]]                                   EMPTY
+361225      Battle_Move                                  Battle_Move.rb
+536908      Move_Usage                                   Move_Usage.rb
+519948      Move_UsageCalculations                       Move_UsageCalculations.rb
+832210      Move_BaseEffects                             Move_BaseEffects.rb
+840466      MoveEffects_Misc                             MoveEffects_Misc.rb
+967077      MoveEffects_BattlerStats                     MoveEffects_BattlerStats.rb
+330852      MoveEffects_BattlerOther                     MoveEffects_BattlerOther.rb
+48243       MoveEffects_MoveAttributes                   MoveEffects_MoveAttributes.rb
+680392      MoveEffects_MultiHit                         MoveEffects_MultiHit.rb
+113863      MoveEffects_Healing                          MoveEffects_Healing.rb
+521113      MoveEffects_Items                            MoveEffects_Items.rb
+50829       MoveEffects_ChangeMoveEffect                 MoveEffects_ChangeMoveEffect.rb
+36137       MoveEffects_SwitchingActing                  MoveEffects_SwitchingActing.rb
+128365                                                   EMPTY
+928379      [[ Scene ]]                                  EMPTY
+700819      Battle_Scene                                 Battle_Scene.rb
+129513      Scene_Initialize                             Scene_Initialize.rb
+632959      Scene_ChooseCommands                         Scene_ChooseCommands.rb
+927658      Scene_PlayAnimations                         Scene_PlayAnimations.rb
+160373      Battle_Scene_Menus                           Battle_Scene_Menus.rb
+428807      Battle_Scene_Objects                         Battle_Scene_Objects.rb
+268426      Battle_Scene_BaseAnimation                   Battle_Scene_BaseAnimation.rb
+163626      Battle_Scene_Animations                      Battle_Scene_Animations.rb
+610660      Battle_DebugScene                            Battle_DebugScene.rb
+162211                                                   EMPTY
+519128      [[ AI ]]                                     EMPTY
+797096      Battle_AI                                    Battle_AI.rb
+911071      AI_Switch                                    AI_Switch.rb
+778325      AI_UseItem                                   AI_UseItem.rb
+86354       AI_MegaEvolve                                AI_MegaEvolve.rb
+686327      AI_ChooseMove                                AI_ChooseMove.rb
+559807      AI_ChooseMove_GenericEffects                 AI_ChooseMove_GenericEffects.rb
+610680      AI_ChooseMove_OtherScores                    AI_ChooseMove_OtherScores.rb
+636940      AI_Utilities                                 AI_Utilities.rb
+97166       AITrainer                                    AITrainer.rb
+519974      AIBattler                                    AIBattler.rb
+505985      AIMove                                       AIMove.rb
+483704                                                   EMPTY
+593770      [[ AI MoveEffects ]]                         EMPTY
+374904      AI_MoveEffects_Misc                          AI_MoveEffects_Misc.rb
+312445      AI_MoveEffects_BattlerStats                  AI_MoveEffects_BattlerStats.rb
+453206      AI_MoveEffects_BattlerOther                  AI_MoveEffects_BattlerOther.rb
+419769      AI_MoveEffects_MoveAttributes                AI_MoveEffects_MoveAttributes.rb
+689275      AI_MoveEffects_MultiHit                      AI_MoveEffects_MultiHit.rb
+483217      AI_MoveEffects_Healing                       AI_MoveEffects_Healing.rb
+394127      AI_MoveEffects_Items                         AI_MoveEffects_Items.rb
+957148      AI_MoveEffects_ChangeMoveEffect              AI_MoveEffects_ChangeMoveEffect.rb
+661132      AI_MoveEffects_SwitchingActing               AI_MoveEffects_SwitchingActing.rb
+187178                                                   EMPTY
+450497      [[ Other battle code ]]                      EMPTY
+384710      PBEffects                                    PBEffects.rb
+851219      Battle_ActiveField                           Battle_ActiveField.rb
+156211      Battle_DamageState                           Battle_DamageState.rb
+322602      Battle_Peers                                 Battle_Peers.rb
+683224      Battle_CatchAndStoreMixin                    Battle_CatchAndStoreMixin.rb
+686144      Battle_Clauses                               Battle_Clauses.rb
+67192       BattleAnimationPlayer                        BattleAnimationPlayer.rb
+885335      Battle_AbilityEffects                        Battle_AbilityEffects.rb
+811608      Battle_ItemEffects                           Battle_ItemEffects.rb
+308243      Battle_PokeBallEffects                       Battle_PokeBallEffects.rb
+506196                                                   EMPTY
+805127      [[ Other battle types ]]                     EMPTY
+601262      SafariBattle                                 SafariBattle.rb
+399579      BugContestBattle                             BugContestBattle.rb
+537745      BattlePalaceBattle                           BattlePalaceBattle.rb
+767933      BattleArenaBattle                            BattleArenaBattle.rb
+342504      RecordedBattle                               RecordedBattle.rb
+394768      ==================                           EMPTY
+542938      [[ Overworld ]]                              EMPTY
+128533      Overworld                                    Overworld.rb
+953771      Overworld_Metadata                           Overworld_Metadata.rb
+86237       Overworld_Time                               Overworld_Time.rb
+908398      Overworld_FieldMoves                         Overworld_FieldMoves.rb
+262870      Overworld_Fishing                            Overworld_Fishing.rb
+109831      Overworld_BerryPlants                        Overworld_BerryPlants.rb
+22438       Overworld_DayCare                            Overworld_DayCare.rb
+270563      Overworld_RandomDungeons                     Overworld_RandomDungeons.rb
+9509                                                     EMPTY
+706455      [[ Overworld visuals ]]                      EMPTY
+292472      Overworld_Weather                            Overworld_Weather.rb
+704575      Overworld_Overlays                           Overworld_Overlays.rb
+450880      Overworld_MapTransitionAnims                 Overworld_MapTransitionAnims.rb
+880812                                                   EMPTY
+987673      [[ Battle triggering ]]                      EMPTY
+514038      Overworld_BattleStarting                     Overworld_BattleStarting.rb
+675688      Overworld_BattleIntroAnim                    Overworld_BattleIntroAnim.rb
+115230      Overworld_WildEncounters                     Overworld_WildEncounters.rb
+959462      Overworld_EncounterModifiers                 Overworld_EncounterModifiers.rb
+461134      Overworld_RoamingPokemon                     Overworld_RoamingPokemon.rb
+277489      ==================                           EMPTY
+997469      [[ Items ]]                                  EMPTY
+490981      Item_Utilities                               Item_Utilities.rb
+727767      Item_Effects                                 Item_Effects.rb
+720219      Item_BattleEffects                           Item_BattleEffects.rb
+545230      Item_Phone                                   Item_Phone.rb
+21939       Item_PokeRadar                               Item_PokeRadar.rb
+733781      Item_Mail                                    Item_Mail.rb
+944256      Item_Sprites                                 Item_Sprites.rb
+458407      PokemonBag                                   PokemonBag.rb
+449809      ==================                           EMPTY
+505697      [[ Pokemon ]]                                EMPTY
+204002      Pokemon                                      Pokemon.rb
+292340      Pokemon_MegaEvolution                        Pokemon_MegaEvolution.rb
+515191      Pokemon_ShadowPokemon                        Pokemon_ShadowPokemon.rb
+232815      Pokemon_Move                                 Pokemon_Move.rb
+707348      Pokemon_Owner                                Pokemon_Owner.rb
+611863                                                   EMPTY
+755975      [[ Pokemon-related ]]                        EMPTY
+468118      FormHandlers                                 FormHandlers.rb
+246227      ShadowPokemon_Other                          ShadowPokemon_Other.rb
+331655      Pokemon_Sprites                              Pokemon_Sprites.rb
+29384       PokemonStorage                               PokemonStorage.rb
+762834      ==================                           EMPTY
+724590      [[ Trainers and player ]]                    EMPTY
+134053      Trainer                                      Trainer.rb
+832877      Trainer_LoadAndNew                           Trainer_LoadAndNew.rb
+598533      Trainer_Sprites                              Trainer_Sprites.rb
+796177      Player                                       Player.rb
+459486      Player_Pokedex                               Player_Pokedex.rb
+963701      ==================                           EMPTY
+540266      [[ UI ]]                                     EMPTY
+411905      UI_PauseMenu                                 UI_PauseMenu.rb
+600567      UI_Pokedex_Menu                              UI_Pokedex_Menu.rb
+818888      UI_Pokedex_Main                              UI_Pokedex_Main.rb
+446765      UI_Pokedex_Entry                             UI_Pokedex_Entry.rb
+448709      UI_Party                                     UI_Party.rb
+352657      UI_Summary                                   UI_Summary.rb
+763339      UI_Bag                                       UI_Bag.rb
+921537      UI_Pokegear                                  UI_Pokegear.rb
+914210      UI_RegionMap                                 UI_RegionMap.rb
+796353      UI_Phone                                     UI_Phone.rb
+806851      UI_Jukebox                                   UI_Jukebox.rb
+829464      UI_TrainerCard                               UI_TrainerCard.rb
+588613      UI_Load                                      UI_Load.rb
+413707      UI_Save                                      UI_Save.rb
+729601      UI_Options                                   UI_Options.rb
+757721      UI_ReadyMenu                                 UI_ReadyMenu.rb
+15312       UI_PokemonStorage                            UI_PokemonStorage.rb
+647454      UI_ItemStorage                               UI_ItemStorage.rb
+874942      UI_PC                                        UI_PC.rb
+650988      UI_PokeMart                                  UI_PokeMart.rb
+512786      UI_BattlePointShop                           UI_BattlePointShop.rb
+761623      UI_MoveRelearner                             UI_MoveRelearner.rb
+116258      UI_PurifyChamber                             UI_PurifyChamber.rb
+616675      UI_MysteryGift                               UI_MysteryGift.rb
+970608      UI_TextEntry                                 UI_TextEntry.rb
+163363                                                   EMPTY
+142567      [[ Non-interactive UI ]]                     EMPTY
+747246      UI_SplashesAndTitleScreen                    UI_SplashesAndTitleScreen.rb
+372389      UI_Controls                                  UI_Controls.rb
+512067      UI_EggHatching                               UI_EggHatching.rb
+195113      UI_Evolution                                 UI_Evolution.rb
+457727      UI_Trading                                   UI_Trading.rb
+387300      UI_HallOfFame                                UI_HallOfFame.rb
+41313       UI_Credits                                   UI_Credits.rb
+492288      ==================                           EMPTY
+197759      [[ Minigames ]]                              EMPTY
+769666      Minigame_Duel                                Minigame_Duel.rb
+634770      Minigame_TripleTriad                         Minigame_TripleTriad.rb
+983184      Minigame_SlotMachine                         Minigame_SlotMachine.rb
+479536      Minigame_VoltorbFlip                         Minigame_VoltorbFlip.rb
+135705      Minigame_Lottery                             Minigame_Lottery.rb
+955901      Minigame_Mining                              Minigame_Mining.rb
+972817      Minigame_TilePuzzles                         Minigame_TilePuzzles.rb
+603640      ==================                           EMPTY
+219252      [[ Alternate battle modes ]]                 EMPTY
+598630      SafariZone                                   SafariZone.rb
+399153      BugContest                                   BugContest.rb
+321066                                                   EMPTY
+268645      [[ Battle Frontier ]]                        EMPTY
+146         Challenge_BattleChallenge                    Challenge_BattleChallenge.rb
+431051      Challenge_Data                               Challenge_Data.rb
+117043      Challenge_ChooseFoes                         Challenge_ChooseFoes.rb
+716661      Challenge_Battles                            Challenge_Battles.rb
+858292      UI_BattleSwap                                UI_BattleSwap.rb
+825587                                                   EMPTY
+797659      [[ Battle Frontier rules ]]                  EMPTY
+576324      Challenge_ChallengeRules                     Challenge_ChallengeRules.rb
+232956      Challenge_Rulesets                           Challenge_Rulesets.rb
+559349      Challenge_EntryRestrictions                  Challenge_EntryRestrictions.rb
+104806      Challenge_LevelAdjustment                    Challenge_LevelAdjustment.rb
+588486      Challenge_BattleRules                        Challenge_BattleRules.rb
+886611                                                   EMPTY
+651502      [[ Battle Frontier generator ]]              EMPTY
+735265      ChallengeGenerator_Data                      ChallengeGenerator_Data.rb
+909884      ChallengeGenerator_Pokemon                   ChallengeGenerator_Pokemon.rb
+660027      ChallengeGenerator_Trainers                  ChallengeGenerator_Trainers.rb
+245746      ChallengeGenerator_BattleSim                 ChallengeGenerator_BattleSim.rb
+363173      ==================                           EMPTY
+948067      [[ Utilities ]]                              EMPTY
+705566      Utilities                                    Utilities.rb
+992374      Utilities_Pokemon                            Utilities_Pokemon.rb
+965849      Utilities_BattleAudio                        Utilities_BattleAudio.rb
+117960      ==================                           EMPTY
+402098      [[ Debug ]]                                  EMPTY
+269172      Editor_Utilities                             Editor_Utilities.rb
+851962      Editor_DataTypes                             Editor_DataTypes.rb
+570199      Editor_Listers                               Editor_Listers.rb
+670499                                                   EMPTY
+884841      [[ Editor screens ]]                         EMPTY
+342755      EditorScreens                                EditorScreens.rb
+107681      EditorScreens_TerrainTags                    EditorScreens_TerrainTags.rb
+988315      EditorScreens_MapConnections                 EditorScreens_MapConnections.rb
+617419      EditorScreens_SpritePositioning              EditorScreens_SpritePositioning.rb
+377775                                                   EMPTY
+453954      [[ Animation editor ]]                       EMPTY
+171033      AnimEditor_SceneElements                     AnimEditor_SceneElements.rb
+388245      AnimEditor_ControlsButtons                   AnimEditor_ControlsButtons.rb
+745958      AnimEditor_Interpolation                     AnimEditor_Interpolation.rb
+958638      AnimEditor_ExportImport                      AnimEditor_ExportImport.rb
+200411      AnimEditor_Functions                         AnimEditor_Functions.rb
+836463                                                   EMPTY
+699386      [[ Debug menus ]]                            EMPTY
+398027      Debug_Menus                                  Debug_Menus.rb
+381471      Debug_MenuCommands                           Debug_MenuCommands.rb
+804999      Debug_MenuExtraCode                          Debug_MenuExtraCode.rb
+174903      Debug_BattleCommands                         Debug_BattleCommands.rb
+515416      Debug_BattlePkmnCommands                     Debug_BattlePkmnCommands.rb
+274701      Debug_BattleExtraCode                        Debug_BattleExtraCode.rb
+450929      Debug_PokemonCommands                        Debug_PokemonCommands.rb
+367723      Debug_FilenameUpdater                        Debug_FilenameUpdater.rb
+168723      ==================                           EMPTY
+482290      [[ Compiler ]]                               EMPTY
+446875      Compiler                                     Compiler.rb
+404551      Compiler_CompilePBS                          Compiler_CompilePBS.rb
+90230       Compiler_WritePBS                            Compiler_WritePBS.rb
+800216      Compiler_MapsAndEvents                       Compiler_MapsAndEvents.rb
+204380      ==================                           EMPTY
+720079      [[ Main ]]                                   EMPTY
+809929      Main                                         Main.rb
